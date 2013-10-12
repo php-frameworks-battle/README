@@ -43,3 +43,15 @@ Saturday 12/10 from 11am-7pm Sunday 13/10 from 11am-7pm
 
 * Event is held in [HackerSpace.gr](http://hackerspace.gr/wiki/PHP_Frameworks_Hackathon)
 * Follow us on [twitter](https://twitter.com/php_fw_battle)
+
+## Application
+
+Applcation scope, as a start, is to create an application that provides functionality for the following (current onomatopoiia was influenced by the theme of "battle"):
+
+1. Creation of users, dubbed "warriors"
+1. Basic profile editing for the users
+1. Users can create a one-way connection with another user, dubbed an "alliance"
+1. User can post limited text-only content to application
+1. Users get notified for the content their allies post
+
+Application name, as a convention, is "Battle".
