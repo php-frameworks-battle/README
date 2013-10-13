@@ -1,15 +1,6 @@
 # PHP Frameworks Battle
 
-
-## Implementations
-
-* [Symfony of Grace](https://github.com/php-frameworks-battle/symfony-of-grace) in [Symfony](http://symfony.com/) 2.3.6
-* [Zen Monastery](https://github.com/php-frameworks-battle/zen-monastery) in [Zend](http://framework.zend.com/) 2.2.4
-* [Fire Starter](https://github.com/php-frameworks-battle/firestarter) in [CodeIgniter](http://ellislab.com/codeigniter) 2.1.4
-* [Yii Dynasty](https://github.com/php-frameworks-battle/yii-dynasty) in [Yii](http://www.yiiframework.com/) 1.1.4
-
-> You can check out the report on the findings of the first phase of the Battle [here](https://github.com/php-frameworks-battle/README/blob/master/report.md).
-
+![PHP Frameworks Battle](https://raw.github.com/php-frameworks-battle/README/master/battle-in-zend.png "Battle HomePage implemented in Zend 2")
 
 ## Objective
 
@@ -20,6 +11,17 @@ The implemented solutions will be evaluated and compared
 1. Learning Curve
 1. Website Performance
 1. Website Security
+
+## Implementations
+
+* [Symfony of Grace](https://github.com/php-frameworks-battle/symfony-of-grace) in [Symfony](http://symfony.com/) 2.3.6
+* [Zen Monastery](https://github.com/php-frameworks-battle/zen-monastery) in [Zend](http://framework.zend.com/) 2.2.4
+* [Fire Starter](https://github.com/php-frameworks-battle/firestarter) in [CodeIgniter](http://ellislab.com/codeigniter) 2.1.4
+* [Yii Dynasty](https://github.com/php-frameworks-battle/yii-dynasty) in [Yii](http://www.yiiframework.com/) 1.1.4
+
+### Report
+> You can check out the report on the findings of the first phase of the Battle [here](https://github.com/php-frameworks-battle/README/blob/master/report.md).
+
 
 ## Application
 
