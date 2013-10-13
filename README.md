@@ -85,3 +85,5 @@ Saturday 12/10 from 11am-7pm Sunday 13/10 from 11am-7pm
 
 * Event is held in [HackerSpace.gr](http://hackerspace.gr/wiki/PHP_Frameworks_Hackathon)
 * Follow us on [twitter](https://twitter.com/php_fw_battle)
+* Notes can be taken at: [etherpad](http://pad.hackerspace.gr/p/phpframeworksbattle)
+
