@@ -1,5 +1,16 @@
 # PHP Frameworks Battle
 
+
+## Implementations
+
+* [Symfony of Grace](https://github.com/php-frameworks-battle/symfony-of-grace) in [Symfony](http://symfony.com/) 2.3.6
+* [Zen Monastery](https://github.com/php-frameworks-battle/zen-monastery) in [Zend](http://framework.zend.com/) 2.2.4
+* [Fire Starter](https://github.com/php-frameworks-battle/firestarter) in [CodeIgniter](http://ellislab.com/codeigniter) 2.1.4
+* [Yii Dynasty](https://github.com/php-frameworks-battle/yii-dynasty) in [Yii](http://www.yiiframework.com/) 1.1.4
+
+> You can check out the report on the findings of the first phase of the Battle [here](https://github.com/php-frameworks-battle/README/blob/master/report.md).
+
+
 ## Objective
 
 A Small Web Project will be implemented in various PHP Frameworks.
